@@ -1,0 +1,5 @@
+django
+dependency_injector
+djangorestframework
+django-filter
+amqpstorm
